@@ -1,9 +1,26 @@
 # oop-finalproject-team31
 ## 1.Project
-   1.Part2--Frozen Lake Reinforcement Learning  
-   2.Part3--Custom OOP-Base project
+   1.Part1--Install and Run
+   2.Part2--Frozen Lake Reinforcement Learning  
+   3.Part3--Custom OOP-Base project
 ## 2.Project Structure
-## 3.How to run
+## 3.How to run?
+### Install Dependencies
+```bash
+pip install gymnasium numpy matplotlib
+```
+### Run Frozen Lake Training
+```bash
+python frozen_lake.py
+```
+### Run Evaluation
+```bash
+python evaluate.py
+```
+### Run Custom Project
+```bash
+python train_custom.py
+```
 ## 4.UML Diagram
 ## 5.Demo
 ## 6.Team Contribution List
