@@ -13,7 +13,7 @@
 -gymnasium   
 -numpy  
 ## 3.How to run?
-  ### Install Dependencies
+  ### Install
   1.Install Python 3.8–3.12 from the official website.  
   2.Install required dependencies:  
   ```bash
@@ -26,11 +26,11 @@
   >>> env = gym.make("warehouse-robot-v0")
   >>> env.reset()
   ```
-  ### Run Frozen Lake Training
+  ### Frozen Lake
   ```bash
   python frozen_lake.py
   ```
-  ### Run Custom Project
+  ### Warehouse_robot
   ```bash
   python train_warehouse.py
   python demo_trained_agent.py
